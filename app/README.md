@@ -16,11 +16,11 @@ Notice: due to limited amount of data, only around 30 kinds of cat could be reco
 
 ![Screenshot_20191227-085651_CatHub](Screenshot_20191227-085651_CatHub.png)
 
-![Screenshot_20191227-085854_CatHub](Screenshot_20191227-085854_CatHub.png)
+![Screenshot_20191227-085854_CatHub](/media/young/LENOVO/HW/AI/project 4/ppt/Screenshot_20191227-085854_CatHub.png)
 
-![Screenshot_20191227-085902_CatHub](Screenshot_20191227-085902_CatHub.png)
+![Screenshot_20191227-085902_CatHub](/media/young/LENOVO/HW/AI/project 4/ppt/Screenshot_20191227-085902_CatHub.png)
 
-![Screenshot_20191227-085854_CatHub](Screenshot_20191227-085759_CatHub.png)
+![Screenshot_20191227-085854_CatHub](/media/young/LENOVO/HW/AI/project 4/ppt/Screenshot_20191227-085854_CatHub.png)
 
 ### Acknowledgement
 

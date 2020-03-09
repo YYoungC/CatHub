@@ -10,7 +10,7 @@ In this project our team design an Android application to recognize the kind of 
 
 Notice: due to limited amount of data, only around 30 kinds of cat could be recognized. The theoretical accuracy calculated by ModelArts of this project is approximately 92%. 
 
-![准确率](/media/young/LENOVO/HW/AI/project 4/准确率.png)
+![准确率](准确率.png)
 
 ### Screenshots of application
 
